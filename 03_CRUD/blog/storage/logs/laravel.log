@@ -2,3 +2,39 @@
 [stacktrace]
 #0 {main}
 "} 
+[2018-10-09 02:15:03] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:15:23] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:18:34] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:19:34] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:25:22] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:25:34] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:25:58] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:26:10] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
+[2018-10-09 02:26:35] local.ERROR: Illuminate\Routing\Router::loadRoutes(): Failed opening required 'C:\xampp\htdocs\Laravel-Whats-New-In-Laravel-5.7\03_CRUD\blog\routes/api.php' (include_path='C:\xampp\php\PEAR') {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Illuminate\\Routing\\Router::loadRoutes(): Failed opening required 'C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\outes/api.php' (include_path='C:\\xampp\\php\\PEAR') at C:\\xampp\\htdocs\\Laravel-Whats-New-In-Laravel-5.7\\03_CRUD\\blog\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php:414)
+[stacktrace]
+#0 {main}
+"} 
