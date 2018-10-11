@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('validation','FormController@validation');
+Route::post('validation','FormController@validationPost');
+
